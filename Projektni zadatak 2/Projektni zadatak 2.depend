@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1483106214 source:d:\desktop\etf\9.osnovi softverskog inzinjerstva\projektni zadatak\22.1.2017\projektni zadatak 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
